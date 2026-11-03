@@ -1,0 +1,17 @@
+# Python virtual environments
+.venv/
+**/.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# AI model weights
+*.safetensors
+
+# Environment variables
+.env
+
+
